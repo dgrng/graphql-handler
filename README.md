@@ -10,6 +10,10 @@ This library requires [graph-gophers/graphql-go](https://github.com/graph-gopher
 | Gin       | v1      |
 | Fiber     | v2      |
 
+## Install:
+
+`go get github.com/dgrng/graphql-handler`
+
 ## Example:
 
 See [examples](https://github.com/dgrng/graphql-handler/tree/main/examples)
